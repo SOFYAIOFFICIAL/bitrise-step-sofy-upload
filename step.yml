@@ -72,6 +72,7 @@ inputs:
     opts:
       title: Application GUID
       Description: |
-          Find your Sofy application guid by following the steps under [Finding and Copying an App's GUID](https://docs.sofy.ai/using-ap-is-for-testing/upload-apk-ipa-using-apis#finding_and_copying_an_app_s_guid)
+          Find your Sofy application guid by following the steps here https://docs.sofy.ai/using-ap-is-for-testing/upload-apk-ipa-using-apis#finding_and_copying_an_app_s_guid
       isRequired: false
+      is_sensitive: true
 
